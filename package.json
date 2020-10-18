@@ -1,6 +1,6 @@
 {
   "name": "percent-to-hex",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Converts percent value (between 0 and 1) to HEX color code (between green and red)",
   "main": "index.js",
   "scripts": {
